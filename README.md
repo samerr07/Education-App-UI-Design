@@ -1,3 +1,8 @@
+# Online Education App
+Welcome to the Education App Frontend! This React-based application is designed to provide a user-friendly interface for students and educators to access educational resources and collaborate on learning materials.
+
+# Live Demo : https://education-app-ui-design.vercel.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
